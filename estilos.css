@@ -1,0 +1,22 @@
+*{
+    background: linear-gradient(#333333, #949494);
+    color:plum;
+    text-align:justify;
+    font-family: "Mallanna";
+}
+
+.titulos {
+    font-size: 220% ;
+    font-style: normal;
+    font-family: "Limelight";
+}
+
+#imagen1 {
+width: 120mp;
+height: 120mp;
+}
+
+#imagen2 {
+max-width: 200mp;
+max-height: 200mp;
+}
