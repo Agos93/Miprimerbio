@@ -1,22 +1,32 @@
 *{
-    background: linear-gradient(#333333, #949494);
-    color:plum;
-    text-align:justify;
-    font-family: "Mallanna";
+    font-family: "Roboto";
+    font-weight: bold;
+    margin: 1.5%;
+}
+
+body {
+    background: linear-gradient(#494848, #949494);
+    color:black;
 }
 
 .titulos {
-    font-size: 220% ;
+    font-size: 300% ;
     font-style: normal;
     font-family: "Limelight";
+    color:rgb(235, 151, 217);
+    text-align:justify;
+}
+
+p{
+text-align: justify;
 }
 
 #imagen1 {
-width: 120mp;
-height: 120mp;
+width: 50%;
+height: 50%;
 }
 
-#imagen2 {
-max-width: 200mp;
-max-height: 200mp;
+.primeraimagen {
+    text-align: center;
 }
+
